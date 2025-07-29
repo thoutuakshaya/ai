@@ -10,12 +10,12 @@ st.title("🤖 TechFest Chatbot - JNTUH UCEJ")
 st.sidebar.header("🎓 Coordinators")
 st.sidebar.markdown("""
 **HOD (CSE):** Dr. Sateesh Kumar  
-**Prompt Fusion:** Akshaya - 📞 1234567890  
-**Tech Trivia:** Abhiram - 📞 9492921180  
-**Vision Board:** Vardhan - 📞 9492921180  
-**Project Prism:** Vinay Vardhan - 📞 9876543210  
-**Treasure Hunt:** Srujana - 📞 9876543211  
-**Ideathon:** Srilatha - 📞 9876543212  
+**Prompt Fusion:** Akshaya - 📞 9234567890  
+**Tech Trivia:** Abhiram - 📞 9492921565  
+**Vision Board:** Vardhan - 📞 94925621180  
+**Project Prism:** Vinay Vardhan - 📞 9876543770  
+**Treasure Hunt:** Srujana - 📞 9876463211  
+**Ideathon:** Srilatha - 📞 9826565412  
 """)
 
 jokes = [
