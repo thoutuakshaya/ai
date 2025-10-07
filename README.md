@@ -1,6 +1,5 @@
 
 
-
 ## AI Project Title
 
 <!--
@@ -128,16 +127,6 @@ Please make sure your code adheres to the project's coding standards and that yo
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-<!-- 
-NOTE: You should create a file named `LICENSE` in the root of your repository and paste the contents of the MIT License (or your chosen license) into it.
--->
-```</pre>
-
-<pre>Of course! Here is a professional `README.md` file tailored for your "ai" repository, taking into account the specified file structure.
-
-This template is designed to be easily customized. You'll see placeholders like `[Brief description of your project]` that you should replace with your specific project details.
-
----
 
 # AI Project Template
 
@@ -260,3 +249,6 @@ Please make sure to update tests as appropriate and follow the existing code sty
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 *(Note: You will need to create a `LICENSE.md` file in your repository. You can easily add one using GitHub's "Add file" feature and choosing the MIT License template.)*</pre>
+
+to view streamlit app click the link : https://crescence2k25techveda.streamlit.app/
+used streamlit deployer to deply this.
